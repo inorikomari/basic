@@ -1,0 +1,14 @@
+..\WebContent\js\prototypes.js
+..\WebContent\js\jquery\jquery.min.js
+..\WebContent\js\jquery\jquery-rest.js
+..\WebContent\js\easyui\jquery.easyui.min.js
+..\WebContent\js\easyui\locale\easyui-lang-zh_CN.js
+..\WebContent\js\easyui.validatebox.rules.js
+..\WebContent\js\kindeditor\kindeditor-min.js
+..\WebContent\js\kindeditor\kindeditor.basePath.js
+..\WebContent\js\kindeditor\lang\zh_CN.js
+..\WebContent\js\commons.js
+..\WebContent\js\jquery.wxparser.js
+..\WebContent\js\jquery.wxgrid.js
+..\WebContent\js\app.sys.js
+..\WebContent\js\app.oa.js
